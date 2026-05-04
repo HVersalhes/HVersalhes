@@ -51,8 +51,8 @@ I am a passionate software developer currently undergoing rigorous training at *
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HVersalhes&show_icons=true&theme=transparent&hide_border=true&title_color=2496ED&text_color=777777&icon_color=2496ED" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HVersalhes&layout=compact&theme=transparent&hide_border=true&title_color=2496ED&text_color=777777" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HVersalhes&show_icons=true&theme=tokyonight&hide_border=true&title_color=2496ED" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HVersalhes&layout=compact&theme=tokyonight&hide_border=true&title_color=2496ED" width="48%" alt="Top Languages" />
 </div>
 
 ---
