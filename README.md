@@ -1,64 +1,73 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Helder+(HVersalhes);Informatics+%26+Telecommunications+Eng+Student;42+Luanda+Cadet+-+Common+Core;Aspiring+DevOps+%26+Software+Engineer" alt="Typing SVG" />
+
+# Helder Versalhes
+**Software Engineer | 42 Cadet | Aspiring DevOps**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&width=800&height=50&lines=Low-Level+Programming+%26+System+Architecture;Data+Structures+%26+Algorithms;Building+Scalable+%26+Efficient+Solutions;Continuous+Self-Development&center=true&color=00BFFF" alt="Typing SVG" />
+
+*Informatics & Telecommunications Engineering Student with a strong foundation in C/C++ and Unix systems, eager to build high-performance infrastructure.*
+
 </div>
 
-<br/>
+---
+
+## 🏢 Executive Summary
+I am a passionate software developer currently undergoing rigorous training at **[42 Luanda](https://42luanda.ao/)**. I specialize in low-level programming, memory management, and algorithm optimization. My engineering philosophy revolves around writing clean, efficient, and scalable code. As an aspiring DevOps engineer, I am continuously bridging the gap between deep system architecture and modern infrastructure operations.
+
+---
+
+## ⚙️ Core Competencies
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Infrastructure & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Engineering Portfolio: 42 Cursus
+*The 42 curriculum is a highly rigorous, peer-reviewed, and project-based software engineering program. Below are my completed milestones:*
+
+| Project Category | Completed Projects | Technical Focus |
+| :--- | :--- | :--- |
+| **Systems & Concurrency** | `minishell`, `philosophers`, `minitalk` | Built a Unix shell (Bash-like), implemented multithreading/mutexes to solve the dining philosophers problem, and developed IPC (Inter-Process Communication) using Unix signals. |
+| **Algorithms & Logic** | `push_swap`, `fract-ol` | Developed highly optimized sorting algorithms using limited stack operations and rendered complex mathematical fractals using the MinilibX graphical library. |
+| **System Administration** | `Born2beroot` | Configured a secure virtual machine, implementing strict LVM partitions, SSH protocols, firewall (UFW), and password policies. |
+| **Core C & Memory** | `libft`, `ft_printf`, `get_next_line` | Recreated the C Standard Library, built a custom `printf` function, and implemented a robust memory-leak-free file reading utility. |
+
+> **Status:** Successfully completed the Common Core foundational layer and advancing towards specialized architectures.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <em>Curious mind, passionate about low-level programming, DSA, and daily self-development. 🚀</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=HVersalhes&show_icons=true&theme=transparent&hide_border=true&title_color=2496ED&text_color=777777&icon_color=2496ED" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HVersalhes&layout=compact&theme=transparent&hide_border=true&title_color=2496ED&text_color=777777" width="48%" alt="Top Languages" />
 </div>
 
 ---
 
-### 👨🏻‍💻 About Me
-
-- 🎓 **Academics:** Studying Informatics Engineering and Telecommunications.
-- 🏫 **42 School:** Cadet at **[42 Luanda](https://www.42luanda.com/)** (42 Cursus - Common Core). 
-- ⚙️ **Interests:** Data Structures & Algorithms (DSA), System Architecture, and venturing into the DevOps ecosystem.
-- 🌱 **Mindset:** Highly curious and focused on continuous, everyday self-development. "Learning how to learn."
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="left">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</div>
-
----
-
-### 🦅 42 Cursus Projects
-*Developing a strong foundation in C, algorithms, memory management, and Unix systems.*
-
-- ✔️ **Completed:** `libft` • `ft_printf` • `get_next_line` • `Born2beroot` • `minitalk` • `fract-ol` • `push_swap` • `minishell` • `philosophers`
-- ⏳ **In Progress:** *(Upcoming projects will be updated soon...)*
-
----
-
-### 📊 GitHub Insights
+## 📬 Let's Collaborate
+I am actively seeking opportunities where I can contribute to high-performance teams and solve complex engineering problems.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HVersalhes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HVersalhes&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
----
-
-### 📫 Let's Connect!
-
-<div align="left">
   <a href="mailto:helderversalhes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-helderversalhes%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Connect_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/aboynamedhelder">
-    <img src="https://img.shields.io/badge/Instagram-aboynamedhelder-black?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
