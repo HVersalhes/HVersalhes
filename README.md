@@ -13,7 +13,7 @@
 ### 👨🏻‍💻 About Me
 
 - 🎓 **Academics:** Studying Informatics Engineering and Telecommunications.
-- 🏫 **42 School:** Cadet at **[42 Luanda](https://42luanda.ao/)** (42 Cursus - Common Core). 
+- 🏫 **42 School:** Cadet at **[42 Luanda](https://www.42luanda.com/)** (42 Cursus - Common Core). 
 - ⚙️ **Interests:** Data Structures & Algorithms (DSA), System Architecture, and venturing into the DevOps ecosystem.
 - 🌱 **Mindset:** Highly curious and focused on continuous, everyday self-development. "Learning how to learn."
 
