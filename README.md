@@ -51,7 +51,9 @@ I am a passionate software developer currently undergoing rigorous training at *
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/HVersalhes?template=classic&base=header,activity,repositories,metadata&config_timezone=Africa/Luanda&theme=dark" width="100%" alt="GitHub Metrics" />
+  <!-- Usando a instância estável alternativa para o stats -->
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=HVersalhes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HVersalhes&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 ---
